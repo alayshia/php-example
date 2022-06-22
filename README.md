@@ -22,7 +22,7 @@ tilt up
 ## Running the Example Using Docker
 
 ```bash
-docker compose -d
+docker compose up
 ```
 
 ## Create the Request
